@@ -12,7 +12,8 @@
 - [مقدمه](./00-05-Introduction.md)
 - [فصل ۱: Domain-Driven Design چیست؟](./C01.md)
 - [فصل ۲: Ubiquitous Language (زبان فراگیر یا زبان مشترک)](./C02.md)
-- [فصل ۲: )](./C03.md)
+- فصل ۳: Model-Driven Design (طراحی مدل محور)
+  - [مقدمه](./C03-00.md)
 
 ---
 ➡ [قبلی](./00-01-Cover.md) | [فهرست مطالب](./00-02-Table-of-Content.md) | [بعدی](./00-03-Translator-Preface.md) ⬅
