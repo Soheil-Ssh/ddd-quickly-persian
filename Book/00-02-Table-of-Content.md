@@ -17,6 +17,7 @@
   - [اجزای سازده Model-Driven Design](./C03-01.md)
   - [Layered Architecture](./C03-02.md)
   - [Entities](./C03-03.md)
+  - [Value Objects](./C03-04.md)
 
 ---
 ➡ [قبلی](./00-01-Cover.md) | [فهرست مطالب](./00-02-Table-of-Content.md) | [بعدی](./00-03-Translator-Preface.md) ⬅
