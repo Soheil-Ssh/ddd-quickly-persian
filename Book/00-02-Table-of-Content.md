@@ -19,6 +19,7 @@
   - [Entities](./C03-03.md)
   - [Value Objects](./C03-04.md)
   - [Services](./C03-05.md)
+  - [Modules](./C03-06.md)
 
 ---
 ➡ [قبلی](./00-01-Cover.md) | [فهرست مطالب](./00-02-Table-of-Content.md) | [بعدی](./00-03-Translator-Preface.md) ⬅
